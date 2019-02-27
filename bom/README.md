@@ -24,7 +24,7 @@ Line | Description | Quantity | Links
 ## LED-Receiver
 Line | Description | Quantity | Links
 --- | --- | --- | ---
-1 | Receiver Interface PCB | 1 | [files](https://github.com/satt99/comet46-hardware/tree/master/gerbers/ledreceiver) 
+1 | Receiver Interface PCB | 1 | [files](https://github.com/satt99/comet46-hardware/tree/master/gerbers/led-receiver) 
 2 | MDBT40-256RV3 nRF51822 | 1 | [seeedstudio](https://www.seeedstudio.com/MDBT40-256RV3-nRF51822-based-BLE-module-p-2503.html), [eleshop](http://eleshop.jp/shop/g/gGAB314/)
 3 | Pro Mirco | 1 | 
 4 | Cree CLVBA-FKA (or any other pin-compatible PLCC-4 LED) | 1 | [digikey](https://www.digikey.com/product-detail/en/cree-inc/CLVBA-FKA-CAEDH8BBB7A363/CLVBA-FKA-CAEDH8BBB7A363CT-ND/2650500), [marutsu](https://www.marutsu.co.jp/pc/i/16173639/)
